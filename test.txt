@@ -2,4 +2,8 @@ Do you even code bro?
 
 coding meme
 
+<<<<<<< HEAD
 bro, I am out of jokes.
+=======
+some text
+>>>>>>> main
